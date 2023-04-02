@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\bin\Debug\net6.0\C_SharpTask64.exe
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\bin\Debug\net6.0\C_SharpTask64.deps.json
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\bin\Debug\net6.0\C_SharpTask64.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\bin\Debug\net6.0\C_SharpTask64.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\bin\Debug\net6.0\C_SharpTask64.pdb
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\refint\C_SharpTask64.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.pdb
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\C_SharpTask64.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230325\HomeTasks\C_SharpTask64\obj\Debug\net6.0\ref\C_SharpTask64.dll
